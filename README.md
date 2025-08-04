@@ -41,6 +41,8 @@ df = pd.read_csv('monkeypox-followup.csv')
 
 The notebook includes various plots and statistical outputs that help in understanding the trends of MonkeyPox cases. 
 
+
+
 ## Contributions
 
 If you want to contribute or modify this project, feel free to fork and submit a pull request.
