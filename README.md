@@ -40,6 +40,11 @@ df = pd.read_csv('monkeypox-followup.csv')
 ## Output & Visualization
 
 The notebook includes various plots and statistical outputs that help in understanding the trends of MonkeyPox cases. 
+![Alt Text](https://github.com/raghava7261/Temporal-Analysis-for-social-media-trends-on-Monkeypox/edit/main/README.md#:~:text=monkeypox.png)
+
+![Alt Text](https://github.com/raghava7261/Temporal-Analysis-for-social-media-trends-on-Monkeypox/edit/main/README.md#:~:text=Time_Analysis.png)
+
+
 
 
 
